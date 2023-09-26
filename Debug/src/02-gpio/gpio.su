@@ -1,0 +1,18 @@
+D:\Desktop\Proyecto Info 2\AccessIO\src\01-pin\in/inputs.h:19:3:inputs::inputs()	16	static
+D:\Desktop\Proyecto Info 2\AccessIO\src\01-pin\in/inputs.h:23:11:inputs::~inputs()	16	static
+D:\Desktop\Proyecto Info 2\AccessIO\src\01-pin\in/inputs.h:23:11:virtual inputs::~inputs()	16	static
+D:\Desktop\Proyecto Info 2\AccessIO\src\01-pin\out/outputs.h:44:3:outputs::outputs()	16	static
+D:\Desktop\Proyecto Info 2\AccessIO\src\01-pin\out/outputs.h:50:11:outputs::~outputs()	16	static
+D:\Desktop\Proyecto Info 2\AccessIO\src\01-pin\out/outputs.h:50:11:virtual outputs::~outputs()	16	static
+../src/02-gpio/gpio.cpp:45:1:gpio::gpio(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)	24	static
+../src/02-gpio/gpio.cpp:77:9:virtual uint8_t gpio::SetPin()	16	static
+../src/02-gpio/gpio.cpp:90:9:virtual uint8_t gpio::ClrPin()	16	static
+../src/02-gpio/gpio.cpp:102:9:virtual uint8_t gpio::SetTogglePin()	16	static
+../src/02-gpio/gpio.cpp:110:9:virtual uint8_t gpio::SetDirOutputs()	16	static
+../src/02-gpio/gpio.cpp:121:9:virtual uint8_t gpio::SetDirInputs()	16	static
+../src/02-gpio/gpio.cpp:132:9:uint8_t gpio::SetToggleDir()	16	static
+../src/02-gpio/gpio.cpp:140:9:virtual uint8_t gpio::GetPin() const	32	static
+../src/02-gpio/gpio.cpp:149:9:virtual uint8_t gpio::SetPinMode()	32	static
+../src/02-gpio/gpio.cpp:165:9:virtual uint8_t gpio::SetPinResistor()	32	static
+../src/02-gpio/gpio.h:42:7:gpio::~gpio()	16	static
+../src/02-gpio/gpio.h:42:7:virtual gpio::~gpio()	16	static

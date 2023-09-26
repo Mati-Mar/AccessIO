@@ -1,0 +1,3 @@
+../src/11-UART/ComunicacionAsincronica.cpp:43:1:ComunicacionAsincronica::ComunicacionAsincronica()	16	static
+../src/11-UART/ComunicacionAsincronica.cpp:48:1:ComunicacionAsincronica::~ComunicacionAsincronica()	16	static
+../src/11-UART/ComunicacionAsincronica.cpp:48:1:virtual ComunicacionAsincronica::~ComunicacionAsincronica()	16	static
